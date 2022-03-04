@@ -1,1 +1,0 @@
-introduction to the basics of the linus shell
